@@ -590,7 +590,7 @@ body {
   height: auto;
 }
 .work-video__item::after {
-  content: url(../images/main/work-video/sign.svg);
+  content: url(images/main/work-video/sign.svg);
   display: inline-block;
   position: absolute;
   top: 50%;
@@ -678,7 +678,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  background: url(../images/main/projects/project_sign.svg) 0 0 no-repeat;
+  background: url(images/main/projects/project_sign.svg) 0 0 no-repeat;
   z-index: 3;
   opacity: 1;
 }
